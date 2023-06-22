@@ -1,0 +1,2 @@
+python-decouple==3.8
+watchdog==3.0.0
