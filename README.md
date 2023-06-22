@@ -1,6 +1,6 @@
 # Snapshot Diff FTP
 
-A little tool to push the differences of your folder which are happened between the two snapshots to the ftp destination.
+A little tool to push the differences of your folder which are happened between the periodically created snapshots to the ftp destination.
 
 ## Configuration
 Create a `.env` in the cloned repository and set the following variables.
